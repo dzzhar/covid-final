@@ -13,7 +13,7 @@ const Footer = () => {
             </div>
 
             <div className="footer__list">
-              <NavigationList list="Home" to="/" />
+              <NavigationList list="Global" to="/" />
               <NavigationList list="Indonesia" to="/covid/indonesia" />
               <NavigationList list="Province" to="/covid/province" />
               <NavigationList list="About" to="/covid/about" />

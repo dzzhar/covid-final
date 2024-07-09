@@ -35,7 +35,7 @@ const NavigationBar = () => {
           dimunculkan lagi ketika isOpen bernilai true
            */}
             <div className={`navbar__list ${isOpen ? "list__open" : ""}`}>
-              <NavigationList list="Home" to="/" onClick={closeMenu} />
+              <NavigationList list="Global" to="/" onClick={closeMenu} />
               <NavigationList
                 list="Indonesia"
                 to="/covid/indonesia"
