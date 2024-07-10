@@ -33,7 +33,7 @@ const Table = (props) => {
               <thead>
                 <tr>
                   <th>No.</th>
-                  <th>City</th>
+                  <th>Province</th>
                   <th className="table__thead">Confirmed</th>
                   <th className="table__thead">Recovered</th>
                   <th className="table__thead">Treatment</th>
