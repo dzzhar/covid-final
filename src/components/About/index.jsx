@@ -2,7 +2,7 @@
 import "boxicons";
 import Button from "../ui/Button";
 import StyledAbout from "./About.styled";
-import me from "../../assets/img/me.jpg";
+import me from "../../assets/img/me.png";
 
 const AboutMe = () => {
   return (
